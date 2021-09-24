@@ -1,0 +1,9 @@
+.tab{
+    text-align: center;
+}
+
+.dd{
+    display: flex;
+    flex-direction: column;
+    
+}
